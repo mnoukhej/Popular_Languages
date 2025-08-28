@@ -22,6 +22,7 @@ Includes supporting scripts and data files for further exploration.
 ## Structure
 
 <!-- TREE_START -->
+
 ```
 ├── HelloWorld
 │   ├── HelloWorld.c
@@ -65,6 +66,7 @@ Includes supporting scripts and data files for further exploration.
 ├── setup.bat
 └── update_tree.py
 ```
+
 <!-- TREE_END -->
 
 ## Installation
@@ -87,7 +89,7 @@ cd Popular_Languages
 ## Usage
 
 - Explore "Hello World" examples in each language.
-- Use `main.py` and `languages.xlsx` for analysis or scripting.
+- Browse the `HelloWorld` folder for code that asks the user's name and greets them.
 - Run `setup.bat` on Windows for environment setup.
 
 ## License
