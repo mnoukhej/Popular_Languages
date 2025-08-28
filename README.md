@@ -22,7 +22,49 @@ Includes supporting scripts and data files for further exploration.
 ## Structure
 
 <!-- TREE_START -->
-
+```
+├── README.md
+├── programs
+│   ├── HelloWorld.c
+│   ├── HelloWorld.class
+│   ├── HelloWorld.cpp
+│   ├── HelloWorld.cr
+│   ├── HelloWorld.cs
+│   ├── HelloWorld.d
+│   ├── HelloWorld.dart
+│   ├── HelloWorld.exs
+│   ├── HelloWorld.fs
+│   ├── HelloWorld.go
+│   ├── HelloWorld.graphql
+│   ├── HelloWorld.hs
+│   ├── HelloWorld.html
+│   ├── HelloWorld.java
+│   ├── HelloWorld.jl
+│   ├── HelloWorld.js
+│   ├── HelloWorld.kt
+│   ├── HelloWorld.lua
+│   ├── HelloWorld.m
+│   ├── HelloWorld.nim
+│   ├── HelloWorld.pas
+│   ├── HelloWorld.php
+│   ├── HelloWorld.pl
+│   ├── HelloWorld.ps1
+│   ├── HelloWorld.py
+│   ├── HelloWorld.r
+│   ├── HelloWorld.rb
+│   ├── HelloWorld.rkt
+│   ├── HelloWorld.rs
+│   ├── HelloWorld.scala
+│   ├── HelloWorld.sh
+│   ├── HelloWorld.sql
+│   ├── HelloWorld.swift
+│   ├── HelloWorld.tcl
+│   ├── HelloWorld.ts
+│   ├── HelloWorld.v
+│   └── HelloWorld.zig
+├── setup.bat
+└── update_tree.py
+```
 <!-- TREE_END -->
 
 ## Installation
