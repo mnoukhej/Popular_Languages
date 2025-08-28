@@ -1,0 +1,1 @@
+-- SQL is a query language, not for printing in the same way.
